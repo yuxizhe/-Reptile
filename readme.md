@@ -4,7 +4,7 @@
 
 按照普通用户单次转存500的上限 分了三个文件夹
 链接：https://pan.baidu.com/s/1ZeND0YxnTk6Gc2RQFWsh-Q     提取码：xhcw 
-
+新增天翼网盘 https://cloud.189.cn/t/AfQBfyneiyEr (访问码:5alo)
 ## 观察
 
 随便点开几本书，有的图书提供了pdf阅读，有的书提供了在线web阅读。估计是因为有的书没有文字资料所以才提供了pdf阅读。
